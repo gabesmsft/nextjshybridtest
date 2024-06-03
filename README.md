@@ -4,7 +4,7 @@
 
 ## Running locally
 
-To run locally, start by installing the Node dependencies. 
+To run locally, start by installing the Node dependencies.
 
 ```bash
 npm install
